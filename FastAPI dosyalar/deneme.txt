@@ -1,0 +1,54 @@
+API'yi test etmek için aşağıdaki test metinlerini denedim ve aşağıdaki sonuçları aldım :
+"Türk lirası, dolar karşısında değer kazandı." : ekonomi
+"Fenerbahçe yeni transferiyle kadrosunu güçlendirdi." : spor
+"NASA Marsa yeni bir uzay aracı gönderdi." : teknoloji
+"Kadın hakları için dünya çapında bir yürüyüş düzenlendi." : ekonomi
+"Yapay zeka, sağlık alanında büyük bir devrim yaratıyor." : teknoloji
+"Çin ekonomisi son yıllarda hızlı bir büyüme gösterdi." : ekonomi
+"Popüler bir film, tüm zamanların en çok izlenen yapımlarından biri oldu." : politika
+"Küresel ısınma tehdidi, dünya çapında tartışılıyor." : ekonomi
+"Microsoft, yeni işletim sistemi sürümünü duyurdu." : teknoloji
+"Dünya futbolunun en büyük takımları, transfer dönemiyle ilgili görüşmelerde." : spor
+"Büyüyen e-ticaret sektörü, geleneksel perakendeciliği zorluyor." : ekonomi
+"Birçok ülkede okullar çevrim içi eğitime geçti." : ekonomi
+"Uzay turizmi, geleceğin en büyük endüstrisi olabilir." : politika
+"Yeni bir çevre yasası, plastik atıkları azaltmayı hedefliyor." : politika
+"Öğrenciler, yeni okul yılı için hazırlıklarını tamamladı." : politika
+"Bilim insanları, evrim teorisinin yeni bir yönünü keşfetti." : teknoloji
+"Tarih boyunca büyük savaşlar, dünya tarihini şekillendirdi." : ekonomi
+"Bitcoin, dijital para birimlerinin geleceği olabilir." : ekonomi
+"Türkiyede turizm sektörü, pandemi sonrası toparlanma sürecinde." : ekonomi
+"Yeni bir mobil uygulama, kullanıcı deneyimini dönüştürmeyi vaat ediyor." : politika
+"Geçtiğimiz yıl en yüksek ekonomik büyümeyi Asya ülkeleri gerçekleştirdi." : ekonomi
+"Ünlü bir şarkıcı, dünya turnesine çıkıyor." : ekonomi
+"Havacılık sektörü, yeni nesil uçaklarla hız kazanacak." : teknoloji
+"Ülkeler arasında yapılan ticaret anlaşmaları, küresel ekonomiyi şekillendiriyor." : ekonomi
+"Yüksek hızda internet bağlantısı, dünya çapında erişilebilir hale geliyor." : ekonomi
+
+
+
+"Türk lirası, dolar karşısında değer kazandı."
+"Fenerbahçe yeni transferiyle kadrosunu güçlendirdi."
+"NASA Marsa yeni bir uzay aracı gönderdi."
+"Kadın hakları için dünya çapında bir yürüyüş düzenlendi."
+"Yapay zeka, sağlık alanında büyük bir devrim yaratıyor."
+"Çin ekonomisi son yıllarda hızlı bir büyüme gösterdi."
+"Popüler bir film, tüm zamanların en çok izlenen yapımlarından biri oldu."
+"Küresel ısınma tehdidi, dünya çapında tartışılıyor."
+"Microsoft, yeni işletim sistemi sürümünü duyurdu."
+"Dünya futbolunun en büyük takımları, transfer dönemiyle ilgili görüşmelerde."
+"Büyüyen e-ticaret sektörü, geleneksel perakendeciliği zorluyor."
+"Birçok ülkede okullar çevrim içi eğitime geçti."
+"Uzay turizmi, geleceğin en büyük endüstrisi olabilir."
+"Yeni bir çevre yasası, plastik atıkları azaltmayı hedefliyor."
+"Öğrenciler, yeni okul yılı için hazırlıklarını tamamladı."
+"Bilim insanları, evrim teorisinin yeni bir yönünü keşfetti."
+"Tarih boyunca büyük savaşlar, dünya tarihini şekillendirdi."
+"Bitcoin, dijital para birimlerinin geleceği olabilir."
+"Türkiyede turizm sektörü, pandemi sonrası toparlanma sürecinde."
+"Yeni bir mobil uygulama, kullanıcı deneyimini dönüştürmeyi vaat ediyor."
+"Geçtiğimiz yıl en yüksek ekonomik büyümeyi Asya ülkeleri gerçekleştirdi."
+"Ünlü bir şarkıcı, dünya turnesine çıkıyor."
+"Havacılık sektörü, yeni nesil uçaklarla hız kazanacak."
+"Ülkeler arasında yapılan ticaret anlaşmaları, küresel ekonomiyi şekillendiriyor."
+"Yüksek hızda internet bağlantısı, dünya çapında erişilebilir hale geliyor."

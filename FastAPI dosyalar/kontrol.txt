@@ -1,0 +1,9 @@
+1- VS Code üzerinden projeyi açın: Proje klasörünü açarak çalışmaya devam edebilirsiniz.
+
+2- Terminalde(proje dizininde) ".\venv\Scripts\Activate" komutunu yazın: Sanal ortamı tekrar aktif hale getirmek için bu komutu yazmalısınız.
+
+3- "uvicorn main:app --reload" komutuyla(cd app yazılarak app.py'nin olduğu yerde çalışmalı) FastAPI sunucusunu çalıştırın: API'yi çalıştırmak için bu komutu kullanabilirsiniz. Uvicorn, FastAPI sunucusunu başlatacak ve otomatik olarak yeniden yükleme modunda çalışacaktır.
+
+4-Tarayıcıda http://127.0.0.1:8000/docs adresini açın: Bu, FastAPI'nin otomatik olarak oluşturduğu Swagger dokümantasyon sayfasını açacaktır./predict endpoint'ini seçin ve "Try it out" butonuna tıklayın: API'nizi test etmek için burayı seçebilirsiniz.Test metinlerinden birini girin ve "Execute" butonuna basın: API'nin doğru tahmin yapıp yapmadığını test edebilirsiniz.
+
+5-Streamlit Uygulamasını Çalıştırmak için yeni bir terminal aç ve "streamlit run app.py" komutunu çalıştır. Bu komut, Streamlit arayüzünü başlatacak ve tarayıcınızda yeni bir sekme açılacaktır (genellikle http://localhost:8501 adresinde). Artık kullanıcı arayüzünüzü tekrar çalıştırabilirsiniz.
