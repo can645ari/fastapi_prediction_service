@@ -145,3 +145,10 @@ git pull
 Bu proje eğitim ve geliştirme amacıyla paylaşılmıştır.
 
 ---
+
+## 📬 İletişim
+
+Geliştirici: **Can Arı**
+📧 E-posta: [caaan384@gmail.com](mailto:caaan384@gmail.com)
+
+---
